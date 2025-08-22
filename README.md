@@ -1,5 +1,5 @@
 # Pizza Sales Analysis
-## Overview
+## Overview:
 A compact data analysis project using **SQL** for querying and **Microsoft Excel** for dashboarding.  
 The business problem is to analyze pizza sales data to track performance KPIs, identify order trends, and determine best/worst selling items to support decision-making!
 ### Problem Statement
@@ -29,10 +29,23 @@ Key columns used in analysis:
 ### Analysis Steps
 - Data Cleaning (missing values, duplicates, outliers, etc.)
 - Exploratory Data Analysis (EDA) – trends, patterns, insights.
-- Visualizations (charts, graphs, dashboards).
+- Visualizations (charts, graphs, dashboards)
+### Key Insights: <a href="https://github.com/sandhana0910/Pizza-Sales-Analysis/blob/main/Dashboard.png"> view_dashboard </a>
+- Weekends show higher order volumes vs weekdays.
+- Peak ordering hours cluster around 12pm to 1pm and 05pm to 08pm. 
+- Large and Medium sizes contribute the bulk of revenue. 
+- Top sellers are mostly classic flavors; bottom sellers are Brie Carre variants.
+### Tech Stack
+SQL: KPI computation, trend analysis, category/size breakdowns, top/bottom sellers. 
+MS Excel: PivotTables, PivotCharts, single-page dashboard.
+- Here you can see my Whole project(excel file): <a href="https://github.com/sandhana0910/Pizza-Sales-Analysis/blob/main/pizza_sales_project.xlsx"> Project </a>
+### DASHBOARD
 
+<img width="851" height="433" alt="Dashboard" src="https://github.com/user-attachments/assets/2912e6d7-f3dc-4a91-8363-5d39213eca26" />
 
-
+## Conclusion:
+- Using SQL for analysis and Excel for a single-page static dashboard, we transformed pizza orders into actionable insights on performance, demand timing, and product mix.
+- The results highlight where revenue comes from, when to staff and promote, and which items to improve or retire—supporting faster, data-driven decisions!
 
 
 
