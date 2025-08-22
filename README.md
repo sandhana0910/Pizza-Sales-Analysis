@@ -2,7 +2,7 @@
 ## Overview
 A compact data analysis project using **SQL** for querying and **Microsoft Excel** for dashboarding.  
 The business problem is to analyze pizza sales data to track performance KPIs, identify order trends, and determine best/worst selling items to support decision-making!
-## Problem Statement
+### Problem Statement
 A pizza store has collected detailed order data (date, time, pizza type, size, quantity, price, etc.,).
 The management wants to understand sales performance but they don’t have a direct way to see it.
 They need insights such as:
