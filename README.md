@@ -15,14 +15,14 @@ They need insights such as:
 All queries use a single table: `pizza_sales`.  
 Key columns used in analysis:
 `order_id`, `order_date`, `order_time`, `pizza_name`, `pizza_category`, `pizza_size`, `quantity`, `total_price`
-### KPIs and Trends(SQL):
-**Total Revenue**  
-**Average Order Value (AOV)**  
-**Total Pizzas Sold**  
-**Total Orders**  
-**Average Pizzas per Order**  
-**Daily Trend (Orders by Weekday)** 
-**Hourly Trend (Orders by Hour)** 
+### KPIs and Trends(SQL): <a href="https://github.com/sandhana0910/Pizza-Sales-Analysis/blob/main/SQL%20Queries%20for%20pizza%20sales%20analysis.docx"> SQL Queries </a>
+- **Total Revenue**  
+- **Average Order Value (AOV)**  
+- **Total Pizzas Sold**  
+- **Total Orders**  
+- **Average Pizzas per Order**  
+- **Daily Trend (Orders by Weekday)** 
+- **Hourly Trend (Orders by Hour)** 
 - **% of Sales by Pizza Category / Size**  
 - **Total Pizzas Sold by Category** 
 - **Top 5 / Bottom 5 Sellers** 
