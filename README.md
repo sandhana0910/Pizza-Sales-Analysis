@@ -26,3 +26,14 @@ Key columns used in analysis:
 - **% of Sales by Pizza Category / Size**  
 - **Total Pizzas Sold by Category** 
 - **Top 5 / Bottom 5 Sellers** 
+### Analysis Steps
+- Data Cleaning (missing values, duplicates, outliers, etc.)
+- Exploratory Data Analysis (EDA) – trends, patterns, insights.
+- Visualizations (charts, graphs, dashboards).
+
+
+
+
+
+
+
