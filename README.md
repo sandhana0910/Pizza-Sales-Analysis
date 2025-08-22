@@ -11,4 +11,5 @@ They need insights such as:
 3. Which pizza sizes and categories generate more revenue
 4. Which pizzas are top sellers and which ones underperform
 5. Without these insights, it’s hard for the business to make decisions like menu improvements, promotions, and stock planning.
+### Dataset Used: <a href="https://github.com/sandhana0910/Pizza-Sales-Analysis/blob/main/pizza_sales.csv"> view_raw_data </a>
 
